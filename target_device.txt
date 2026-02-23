@@ -1,0 +1,24 @@
+Nvidia GeForce RTX 5090
+Nvidia GeForce RTX 5080
+Nvidia GeForce RTX 5070 Ti
+Nvidia GeForce RTX 5070
+Nvidia GeForce RTX 5060
+Nvidia GeForce RTX 5060
+Nvidia GeForce RTX 5050
+AMD Radeon RX 9070 XT
+AMD Radeon RX 9070
+AMD Radeon RX 9060 XT (16 GB)
+
+=============
+
+AMD Ryzen 9 9950X3D
+AMD Ryzen 9 9900X3D
+AMD Ryzen 7 9800X3D
+AMD Ryzen 7 9700X
+AMD Ryzen 5 9600X
+AMD Ryzen 5 8600G
+AMD Ryzen 7 8700G
+Intel Core i5-15600K
+Intel Core Ultra 7 265K
+Intel Core Ultra 9 285K
+Intel Core Ultra 7 155H

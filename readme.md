@@ -36,15 +36,6 @@ cleaning, analytics, and dashboard development.
 -   SQLite
 -   Streamlit
 
-------------------------------------------------------------------------
-
-## 📂 Project Structure
-
-RigRadar/ │ ├── app/ ├── dashboard/ ├── data/ ├── benchmarks/ ├──
-notebooks/ ├── requirements.txt ├── run.py └── README.md
-
-------------------------------------------------------------------------
-
 ## 🚀 Features
 
 ### 1. Market Scraper
